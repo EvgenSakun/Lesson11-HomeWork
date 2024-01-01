@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Lesson11HM
+//  Lesson11
 //
-//  Created by Evgeny Sakun on 26.12.23.
+//  Created by Evgeny Sakun on 1.01.24.
 //
 
 import UIKit
